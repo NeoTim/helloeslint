@@ -1,0 +1,15 @@
+{
+  "name": "helloeslint",
+  "version": "1.0.0",
+  "description": "eslint ",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint *.js --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "nextzeus",
+  "license": "ISC"
+}
